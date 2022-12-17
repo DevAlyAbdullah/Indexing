@@ -1,0 +1,15 @@
+D:\Workstation\From Scratch Applications\Indexing\Indexing\bin\Release\net7.0\Indexing.exe
+D:\Workstation\From Scratch Applications\Indexing\Indexing\bin\Release\net7.0\Indexing.deps.json
+D:\Workstation\From Scratch Applications\Indexing\Indexing\bin\Release\net7.0\Indexing.runtimeconfig.json
+D:\Workstation\From Scratch Applications\Indexing\Indexing\bin\Release\net7.0\Indexing.dll
+D:\Workstation\From Scratch Applications\Indexing\Indexing\bin\Release\net7.0\Indexing.pdb
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.csproj.AssemblyReference.cache
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.AssemblyInfoInputs.cache
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.AssemblyInfo.cs
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.csproj.CoreCompileInputs.cache
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.dll
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\refint\Indexing.dll
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.pdb
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\Indexing.genruntimeconfig.cache
+D:\Workstation\From Scratch Applications\Indexing\Indexing\obj\Release\net7.0\ref\Indexing.dll
